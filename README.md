@@ -36,3 +36,8 @@ __Melhoria 1__, _Melhoria 2._
 #### Imagem externa
 
 ![Logo do PHP](https://logospng.org/wp-content/uploads/php.png)
+
+## Links interessantes
+
+[Google](https://www.google.com)
+
