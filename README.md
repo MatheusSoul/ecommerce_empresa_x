@@ -42,3 +42,5 @@ __Melhoria 1__, _Melhoria 2._
 [Google](https://www.google.com)
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+Contribuidor principal: https://github.com/MatheusSoul
